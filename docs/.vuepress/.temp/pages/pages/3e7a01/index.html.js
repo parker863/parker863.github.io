@@ -1,0 +1,3 @@
+import comp from "/Users/wp/Desktop/workspace/blogs/new_blogs/vuepress-starter/docs/.vuepress/.temp/pages/pages/3e7a01/index.html.vue"
+const data = JSON.parse("{\"path\":\"/pages/3e7a01/\",\"title\":\"PC协会技术栈更新\",\"lang\":\"en-US\",\"frontmatter\":{\"title\":\"PC协会技术栈更新\",\"date\":\"2023-07-28T22:15:28.000Z\",\"permalink\":\"/pages/3e7a01/\",\"categories\":[\"公告\"],\"tags\":[null]},\"headers\":[{\"level\":3,\"title\":\"PC协会技术栈更新，欢迎各位积极投稿\",\"slug\":\"pc协会技术栈更新-欢迎各位积极投稿\",\"link\":\"#pc协会技术栈更新-欢迎各位积极投稿\",\"children\":[]},{\"level\":3,\"title\":\"PC协会\",\"slug\":\"pc协会\",\"link\":\"#pc协会\",\"children\":[]}],\"git\":{},\"filePathRelative\":\"01.公告/05.PC协会技术栈.md\",\"excerpt\":\"<h3>PC协会技术栈更新，欢迎各位积极投稿</h3>\\n<h3>PC协会</h3>\\n\"}")
+export { comp, data }

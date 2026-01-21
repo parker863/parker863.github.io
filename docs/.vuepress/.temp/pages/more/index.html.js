@@ -1,0 +1,3 @@
+import comp from "/Users/wp/Desktop/workspace/blogs/new_blogs/vuepress-starter/docs/.vuepress/.temp/pages/more/index.html.vue"
+const data = JSON.parse("{\"path\":\"/more/\",\"title\":\"更多 - 一个更加广阔的世界\",\"lang\":\"en-US\",\"frontmatter\":{\"pageComponent\":{\"name\":\"Catalogue\",\"data\":{\"key\":\"03.更多\",\"imgUrl\":\"https://img.icons8.com/stickers/200/000000/bookmark.png\",\"description\":\"存放来自四面八方各种各样的帖子，以及各种吐槽，时不时发布一些资源等。\"}},\"title\":\"更多 - 一个更加广阔的世界\",\"date\":\"2022-10-07T14:32:32.000Z\",\"permalink\":\"/more/\",\"sidebar\":false,\"article\":false,\"comment\":false,\"editLink\":false},\"headers\":[],\"git\":{},\"filePathRelative\":\"00.导航栏-目录页/03.更多.md\",\"excerpt\":\"\"}")
+export { comp, data }

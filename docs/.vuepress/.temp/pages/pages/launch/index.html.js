@@ -1,0 +1,3 @@
+import comp from "/Users/wp/Desktop/workspace/blogs/new_blogs/vuepress-starter/docs/.vuepress/.temp/pages/pages/launch/index.html.vue"
+const data = JSON.parse("{\"path\":\"/pages/launch/\",\"title\":\"技术栈成立\",\"lang\":\"en-US\",\"frontmatter\":{\"title\":\"技术栈成立\",\"sticky\":1,\"permalink\":\"/pages/launch/\",\"categories\":[\"公告\"],\"tags\":[\"PC 协会那些事儿\"],\"date\":\"2022-10-10T14:08:51.000Z\"},\"headers\":[{\"level\":2,\"title\":\"欢迎大家来贡献文章！！！\",\"slug\":\"欢迎大家来贡献文章\",\"link\":\"#欢迎大家来贡献文章\",\"children\":[]}],\"git\":{},\"filePathRelative\":\"01.公告/01.技术栈成立.md\",\"excerpt\":\"\\n<p>点击标题，快速蹦迪</p>\\n\"}")
+export { comp, data }

@@ -1,0 +1,13 @@
+<template><div><h1 id="招新公告" tabindex="-1"><a class="header-anchor" href="#招新公告"><span>招新公告</span></a></h1>
+<p>Hello，这里有一封PC协会的邀请函，需要签收
+PC协会是由一群专研于电脑软硬件的技术爱好者们组成的协会致力于给全校同学，普及电脑硬件知识，熟练计算机软件操作，以及在能力内提供电脑义务维修服务
+我们崇拜技术更注重技能在这里，你将学到到电脑维修经验，体验拆机教学，亲手实装电脑硬件！Excel进阶使用教学，PPT精美模板分享制作，更有海量技巧等你掌握—C盘清理，系统重装，统统不是问题！</p>
+<p>如果你还在为开学选游戏本还是轻薄本，买整机还是组装电脑等一系列设备选购升级问题而苦恼，同样欢迎进群咨询这里有帅气且热心的学长陪你装机，手把手教你选购电脑手机，升级配置，帮助避雷避坑
+欢迎入群咨询详情</p>
+<h3 id="pc协会会员群-915407241" tabindex="-1"><a class="header-anchor" href="#pc协会会员群-915407241"><span>PC协会会员群：915407241</span></a></h3>
+<h3 id="pc协会维修群-870340275" tabindex="-1"><a class="header-anchor" href="#pc协会维修群-870340275"><span>PC协会维修群：870340275</span></a></h3>
+<!-- more -->
+<p><img src="https://cdn.staticaly.com/gh/CQNU-PC/pc-img@master/mackenia/2022招新公告/photo_2022-10-17_13-45-51.5842phi5n4g0.webp" alt="photo_2022-10-17_13-45-51"></p>
+</div></template>
+
+

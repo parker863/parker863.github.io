@@ -1,0 +1,3 @@
+import comp from "/Users/wp/Desktop/workspace/blogs/new_blogs/vuepress-starter/docs/.vuepress/.temp/pages/ann/index.html.vue"
+const data = JSON.parse("{\"path\":\"/ann/\",\"title\":\"公告 - 公开告知\",\"lang\":\"en-US\",\"frontmatter\":{\"pageComponent\":{\"name\":\"Catalogue\",\"data\":{\"key\":\"01.公告\",\"imgUrl\":\"https://img.icons8.com/stickers/200/000000/about--v1.png\",\"description\":\"PC 协会大事儿小事儿都在这同步更新，活动各种资源更新等等，提供不受限制的消息服务。\"}},\"title\":\"公告 - 公开告知\",\"date\":\"2022-10-07T15:40:00.000Z\",\"permalink\":\"/ann/\",\"sidebar\":false,\"article\":false,\"comment\":false,\"editLink\":false},\"headers\":[],\"git\":{},\"filePathRelative\":\"00.导航栏-目录页/01.公告.md\",\"excerpt\":\"\"}")
+export { comp, data }

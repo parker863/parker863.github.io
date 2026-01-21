@@ -1,0 +1,3 @@
+import comp from "/Users/wp/Desktop/workspace/blogs/new_blogs/vuepress-starter/docs/.vuepress/.temp/pages/tutorial/index.html.vue"
+const data = JSON.parse("{\"path\":\"/tutorial/\",\"title\":\"教程 - 跟我学\",\"lang\":\"en-US\",\"frontmatter\":{\"pageComponent\":{\"name\":\"Catalogue\",\"data\":{\"key\":\"02.教程\",\"imgUrl\":\"https://img.icons8.com/stickers/200/000000/menu.png\",\"description\":\"由官方出品的精品教程，涵盖电脑的方方面面，讲解其中细节，手把手教你配置、维修升级，体会探索的乐趣。\"}},\"title\":\"教程 - 跟我学\",\"date\":\"2022-10-07T15:40:00.000Z\",\"permalink\":\"/tutorial/\",\"sidebar\":false,\"article\":false,\"comment\":false,\"editLink\":false},\"headers\":[],\"git\":{},\"filePathRelative\":\"00.导航栏-目录页/02.教程.md\",\"excerpt\":\"\"}")
+export { comp, data }

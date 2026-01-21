@@ -1,0 +1,3 @@
+import comp from "/Users/wp/Desktop/workspace/blogs/new_blogs/vuepress-starter/docs/.vuepress/.temp/pages/history/index.html.vue"
+const data = JSON.parse("{\"path\":\"/history/\",\"title\":\"维修记录\",\"lang\":\"en-US\",\"frontmatter\":{\"pageComponent\":{\"name\":\"Catalogue\",\"data\":{\"key\":\"04.维修记录\",\"imgUrl\":\"https://img.icons8.com/stickers/200/000000/support.png\",\"description\":\"PC 协会维修记录\"}},\"title\":\"维修记录\",\"date\":\"2022-10-09T12:41:06.000Z\",\"permalink\":\"/history/\",\"categories\":[\"目录页\",\"导航栏-目录页\"],\"tags\":null,\"sidebar\":false,\"article\":false,\"comment\":false,\"editLink\":false},\"headers\":[],\"git\":{},\"filePathRelative\":\"00.导航栏-目录页/04.维修记录.md\",\"excerpt\":\"\"}")
+export { comp, data }
